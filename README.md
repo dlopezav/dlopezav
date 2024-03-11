@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a passionate software and generalist engineer based in France. My expertise lies in web development, and I thrive on working with technologies like React, Vue, and Node.js. With a keen eye for design and a love for problem-solving, I enjoy crafting efficient and elegant solutions to complex challenges.<br>
+<br>I'm a passionate software and generalist engineer based in France. My expertise lies in web development, and I thrive on working with technologies like Spring, React, Vue, and Node.js. With a keen eye for design and a love for problem-solving, I enjoy crafting efficient and elegant solutions to complex challenges.<br>
 
 
 ## 🌐 Socials:
