@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a passionate software and generalist engineer based in France. My expertise lies in web development, and I thrive on working with technologies like Spring, React, Vue, and Node.js. With a keen eye for design and a love for problem-solving, I enjoy crafting efficient and elegant solutions to complex challenges.<br>
+<br> Software engineer at Dassault Systèmes, where I contribute to the development of CI/CD cloud services (full-stack, business rules, and production deployments) as well as developer tools centered on AI agents (MCP, skills). Experience in aerospace R&D at Airbus, in web development, and in geographic information systems (GIS). Trilingual in French, English, and Spanish. Holder of dual degrees from Centrale Nantes and the Universidad Nacional de
 
 
 ## 🌐 Socials:
