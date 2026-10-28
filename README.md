@@ -11,5 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=dlopezav&theme=dark&show_icons=true&locale=en&hide=Jupyter%20Notebook&layout=compact)&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dlopezav&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
